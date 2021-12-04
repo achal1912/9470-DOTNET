@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+<title>calculator</title>
+</head>
+<body>
+<h1>calculator</h1>
+<img src="calculator.jpeg">
+<form action="/action_page.php">
+  <label for="input1">input1</label>
+  <input type="number" id="input1"
+   name="iput1" value="">
+<br>
+  <label for="input2>input2</label>
+  <input type="number" id="input2"
+   name="input2" value="">
+<br>
+
+  <input type="submit" value="Submit">
+</form>
+</body>
