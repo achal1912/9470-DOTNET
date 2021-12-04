@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>navigation bar using css</title>
+    <style type="text/css">
+     nav
+{
+    display: block;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background-color:royalblue;
+    text-align: center;
+}
+li
+{
+    list-style-type: none;
+    display: inline;
+    margin-right: 20px;
+    font-size: 25px;
+}
+li:hover ul
+{
+    display: block;
+    position: absolute;
+    left: 200px;
+    background-color:burlywood;
+    margin: 0;
+}
+li:hover ul li a:link
+{
+    display: block;
+    margin-left: 30px;
+}
+a:link
+{
+    color: white;
+    text-decoration: none;
+}
+a:hover
+{
+    color:orangered;
+    text-decoration: none;
+}
+li > ul
+{
+    display: none;
+}   
+     </style>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#"><b><html></html></b></a></li>
+            <li><a href="#">css</a></li>
+            <li>
+                <a href="#">bootstrap</a>
+            
+            <ul>
+                <li><a href="">introduction</a></li>
+                <li><a href="">color</a></li>
+                <li><a href="">image</a></li>
+                <li><a href="travelreservation.html"><button></button></a>
+            </ul>
+            </li>
+            <li><a href="#">javascript</a></li>
+            <li><a href="#">react</a></li>
+        </ul>
+    </nav>
+</body>
+</html>
