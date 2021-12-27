@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\STRING\C SHARP TOLOWER\bin\Debug\C SHARP TOLOWER.exe.config
+C:\Users\user\source\repos\STRING\C SHARP TOLOWER\bin\Debug\C SHARP TOLOWER.exe
+C:\Users\user\source\repos\STRING\C SHARP TOLOWER\bin\Debug\C SHARP TOLOWER.pdb
+C:\Users\user\source\repos\STRING\C SHARP TOLOWER\obj\Debug\C SHARP TOLOWER.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\STRING\C SHARP TOLOWER\obj\Debug\C SHARP TOLOWER.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\STRING\C SHARP TOLOWER\obj\Debug\C SHARP TOLOWER.exe
+C:\Users\user\source\repos\STRING\C SHARP TOLOWER\obj\Debug\C SHARP TOLOWER.pdb

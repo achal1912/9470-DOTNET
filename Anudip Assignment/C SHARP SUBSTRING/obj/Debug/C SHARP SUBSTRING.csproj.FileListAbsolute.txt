@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\STRING\C SHARP SUBSTRING\bin\Debug\C SHARP SUBSTRING.exe.config
+C:\Users\user\source\repos\STRING\C SHARP SUBSTRING\bin\Debug\C SHARP SUBSTRING.exe
+C:\Users\user\source\repos\STRING\C SHARP SUBSTRING\bin\Debug\C SHARP SUBSTRING.pdb
+C:\Users\user\source\repos\STRING\C SHARP SUBSTRING\obj\Debug\C SHARP SUBSTRING.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\STRING\C SHARP SUBSTRING\obj\Debug\C SHARP SUBSTRING.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\STRING\C SHARP SUBSTRING\obj\Debug\C SHARP SUBSTRING.exe
+C:\Users\user\source\repos\STRING\C SHARP SUBSTRING\obj\Debug\C SHARP SUBSTRING.pdb

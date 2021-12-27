@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\STRING\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\user\source\repos\STRING\DEMO\bin\Debug\DEMO.exe
+C:\Users\user\source\repos\STRING\DEMO\bin\Debug\DEMO.pdb
+C:\Users\user\source\repos\STRING\DEMO\obj\Debug\DEMO.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\STRING\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\STRING\DEMO\obj\Debug\DEMO.exe
+C:\Users\user\source\repos\STRING\DEMO\obj\Debug\DEMO.pdb

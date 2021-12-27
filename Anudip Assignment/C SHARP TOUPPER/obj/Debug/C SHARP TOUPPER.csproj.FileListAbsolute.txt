@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\STRING\C SHARP TOUPPER\bin\Debug\C SHARP TOUPPER.exe.config
+C:\Users\user\source\repos\STRING\C SHARP TOUPPER\bin\Debug\C SHARP TOUPPER.exe
+C:\Users\user\source\repos\STRING\C SHARP TOUPPER\bin\Debug\C SHARP TOUPPER.pdb
+C:\Users\user\source\repos\STRING\C SHARP TOUPPER\obj\Debug\C SHARP TOUPPER.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\STRING\C SHARP TOUPPER\obj\Debug\C SHARP TOUPPER.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\STRING\C SHARP TOUPPER\obj\Debug\C SHARP TOUPPER.exe
+C:\Users\user\source\repos\STRING\C SHARP TOUPPER\obj\Debug\C SHARP TOUPPER.pdb
