@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\STRING\C SHARP INDEX\bin\Debug\C SHARP INDEX.exe.config
+C:\Users\user\source\repos\STRING\C SHARP INDEX\bin\Debug\C SHARP INDEX.exe
+C:\Users\user\source\repos\STRING\C SHARP INDEX\bin\Debug\C SHARP INDEX.pdb
+C:\Users\user\source\repos\STRING\C SHARP INDEX\obj\Debug\C SHARP INDEX.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\STRING\C SHARP INDEX\obj\Debug\C SHARP INDEX.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\STRING\C SHARP INDEX\obj\Debug\C SHARP INDEX.exe
+C:\Users\user\source\repos\STRING\C SHARP INDEX\obj\Debug\C SHARP INDEX.pdb
