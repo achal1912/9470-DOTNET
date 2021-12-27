@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\STRING\STRING EQUALS\bin\Debug\STRING EQUALS.exe.config
+C:\Users\user\source\repos\STRING\STRING EQUALS\bin\Debug\STRING EQUALS.exe
+C:\Users\user\source\repos\STRING\STRING EQUALS\bin\Debug\STRING EQUALS.pdb
+C:\Users\user\source\repos\STRING\STRING EQUALS\obj\Debug\C SHARP EQUALS.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\STRING\STRING EQUALS\obj\Debug\C SHARP EQUALS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\STRING\STRING EQUALS\obj\Debug\STRING EQUALS.exe
+C:\Users\user\source\repos\STRING\STRING EQUALS\obj\Debug\STRING EQUALS.pdb

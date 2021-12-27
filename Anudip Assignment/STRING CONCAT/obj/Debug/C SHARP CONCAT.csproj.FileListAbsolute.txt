@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\STRING\STRING CONCAT\bin\Debug\STRING CONCAT.exe.config
+C:\Users\user\source\repos\STRING\STRING CONCAT\bin\Debug\STRING CONCAT.exe
+C:\Users\user\source\repos\STRING\STRING CONCAT\bin\Debug\STRING CONCAT.pdb
+C:\Users\user\source\repos\STRING\STRING CONCAT\obj\Debug\C SHARP CONCAT.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\STRING\STRING CONCAT\obj\Debug\C SHARP CONCAT.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\STRING\STRING CONCAT\obj\Debug\STRING CONCAT.exe
+C:\Users\user\source\repos\STRING\STRING CONCAT\obj\Debug\STRING CONCAT.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\STRING\STRING LENGTH\bin\Debug\STRING LENGTH.exe.config
+C:\Users\user\source\repos\STRING\STRING LENGTH\bin\Debug\STRING LENGTH.exe
+C:\Users\user\source\repos\STRING\STRING LENGTH\bin\Debug\STRING LENGTH.pdb
+C:\Users\user\source\repos\STRING\STRING LENGTH\obj\Debug\C SHARP LENGTH.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\STRING\STRING LENGTH\obj\Debug\C SHARP LENGTH.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\STRING\STRING LENGTH\obj\Debug\STRING LENGTH.exe
+C:\Users\user\source\repos\STRING\STRING LENGTH\obj\Debug\STRING LENGTH.pdb
