@@ -1,0 +1,11 @@
+create table dept(
+deptid int primary key not null,
+deptname varchar(20) not null);
+
+insert into dept values(1,'c');
+insert into dept values(2,'java');
+insert into dept values(3,'python');
+insert into dept values(4,'c++');
+insert into dept values(5,'compes');
+
+select * from dept;
