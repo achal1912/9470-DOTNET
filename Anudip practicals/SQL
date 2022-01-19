@@ -1,0 +1,15 @@
+create table employee(
+employeeid int primary key not null,
+name varchar(25) not null,
+city varchar(20) not null,
+salary varchar(15) not null,
+phoneno varchar(10) not null);
+
+
+insert into employee values(1,'aman chaudhari','pune','30000','9874566122')
+insert into employee values(2,'shubham kewte','banglore','25500','789654231')
+insert into employee values(3,'manthan diwte','nagpur','50000','4478251163')
+insert into employee values(4,'priya mishra', 'mumbai','40000','1547789654')
+insert into employee values(5,'anjali shende','hydrabad','60000','4488965123')
+
+select * from employee;
