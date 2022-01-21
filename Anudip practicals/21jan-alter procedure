@@ -1,0 +1,24 @@
+---create procedure
+create procedure pro_emp
+as
+begin
+select
+employee_name,employee_city,employee_phone_number
+from employee
+order by employee_name asc;
+end;
+
+---execute
+execute pro_emp;
+
+
+---alter
+alter procedure pro_emp
+as
+begin
+select
+employee_name,employee_city,employee_salary
+from employee
+where
+employee_salary=20000;
+end;
