@@ -1,0 +1,2 @@
+F:\DOTNET\LINQTOSQL01\LINQTOSQL01\obj\Debug\LINQTOSQL01.csproj.AssemblyReference.cache
+F:\DOTNET\LINQTOSQL01\LINQTOSQL01\obj\Debug\LINQTOSQL01.csproj.CoreCompileInputs.cache
