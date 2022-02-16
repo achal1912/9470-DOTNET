@@ -1,0 +1,7 @@
+F:\DOTNET\WcfTst\WcfTst\bin\WcfTst.dll.config
+F:\DOTNET\WcfTst\WcfTst\bin\WcfTst.dll
+F:\DOTNET\WcfTst\WcfTst\bin\WcfTst.pdb
+F:\DOTNET\WcfTst\WcfTst\obj\Debug\WcfTst.csproj.AssemblyReference.cache
+F:\DOTNET\WcfTst\WcfTst\obj\Debug\WcfTst.csproj.CoreCompileInputs.cache
+F:\DOTNET\WcfTst\WcfTst\obj\Debug\WcfTst.dll
+F:\DOTNET\WcfTst\WcfTst\obj\Debug\WcfTst.pdb
