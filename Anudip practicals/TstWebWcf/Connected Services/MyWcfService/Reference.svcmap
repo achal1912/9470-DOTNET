@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="e6fe1057-e750-432d-bc82-d94a09710485" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:58477/TstSI.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="TstSI.disco" MetadataType="Disco" ID="f8d8268c-f1c1-44e6-adc1-c1213931a41b" SourceId="1" SourceUrl="http://localhost:58477/TstSI.svc?disco" />
+    <MetadataFile FileName="TstSI.xsd" MetadataType="Schema" ID="24493d5e-3428-45a7-a4d3-0229c451b233" SourceId="1" SourceUrl="http://localhost:58477/TstSI.svc?xsd=xsd1" />
+    <MetadataFile FileName="TstSI1.xsd" MetadataType="Schema" ID="23e7e67e-dfac-4573-86d9-9e655ed7512e" SourceId="1" SourceUrl="http://localhost:58477/TstSI.svc?xsd=xsd2" />
+    <MetadataFile FileName="TstSI2.xsd" MetadataType="Schema" ID="cbb68613-62d7-4f5d-a985-4cae4e615110" SourceId="1" SourceUrl="http://localhost:58477/TstSI.svc?xsd=xsd0" />
+    <MetadataFile FileName="TstSI.wsdl" MetadataType="Wsdl" ID="80dd48c4-0b02-4415-af59-2177aab0ebb1" SourceId="1" SourceUrl="http://localhost:58477/TstSI.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
