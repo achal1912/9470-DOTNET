@@ -1,0 +1,7 @@
+C:\Users\Achal\Desktop\EmployeeServices\EmployeeServices\bin\EmployeeServices.dll.config
+C:\Users\Achal\Desktop\EmployeeServices\EmployeeServices\bin\EmployeeServices.dll
+C:\Users\Achal\Desktop\EmployeeServices\EmployeeServices\bin\EmployeeServices.pdb
+C:\Users\Achal\Desktop\EmployeeServices\EmployeeServices\obj\Debug\EmployeeServices.csproj.AssemblyReference.cache
+C:\Users\Achal\Desktop\EmployeeServices\EmployeeServices\obj\Debug\EmployeeServices.csproj.CoreCompileInputs.cache
+C:\Users\Achal\Desktop\EmployeeServices\EmployeeServices\obj\Debug\EmployeeServices.dll
+C:\Users\Achal\Desktop\EmployeeServices\EmployeeServices\obj\Debug\EmployeeServices.pdb
